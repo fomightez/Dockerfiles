@@ -16,6 +16,7 @@ Associated Docker hub images and github repos
 ------------------------
 
 Chromium:  
+[![](https://images.microbadger.com/badges/image/fomightez/chromium.svg)](https://microbadger.com/images/fomightez/chromium "Get your own image badge on microbadger.com")  
 https://hub.docker.com/r/fomightez/chromium/
 
 https://github.com/fomightez/docker-mac-linuxchromium
