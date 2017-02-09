@@ -1,8 +1,8 @@
 # Dockerfiles
 
 
-I may be wrong, but it seems the automated build settings at Docker Hub is based on a repo having a single Dockerfile, and so I think I need a separate repo for each. Unsure but I am going to keep my eyes open for examples where it isn't so.  
-As a result, I want to easily track my Docker efforts and so I made this markdown file to do this.
+(I may be wrong, but it seems the automated build settings at Docker Hub is based on a repo having a single Dockerfile, and so I think I need a separate repo for each. Unsure but I am going to keep my eyes open for examples where it isn't so.)  
+I want to easily track my Docker efforts, and so I made this markdown file to do this.
 
 
 ----
