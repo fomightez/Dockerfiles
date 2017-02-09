@@ -1,8 +1,9 @@
 # Dockerfiles
 
 
-*(I may be wrong, but it seems the automated build settings at Docker Hub is based on a repo having a single Dockerfile, and so I think I need a separate repo for each. Unsure but I am going to keep my eyes open for examples where it isn't so. Plus even if could have multiple Dockerfiles, I didn't even think that Docker Hub might place restrictions on how long a build of a repo could be limited to but looks kike that is so, see [here](http://stackoverflow.com/questions/34440753/docker-hub-timeout-in-automated-build/34588866#34588866) and [here](http://stackoverflow.com/questions/36948145/chain-automated-builds-in-the-same-docker-hub-repository).)*  
-I want to easily track my Docker efforts, and so I made this markdown file to do this.
+*(At first I thought the automated build settings at Docker Hub is based on a repo having a single Dockerfile, and so I thought I needed a separate repo for each. But [this repo](https://github.com/27Bslash6/docker) seems to suggest otherwise, and you can see the resulting builds [here[(https://hub.docker.com/u/funkygibbon/). Now I wish I didn't remove my recent sub-directory. Although if build a bunch together, might sometime encounter Docker Hub's restrictions on how long a build of a repo can be limited to? see [here](http://stackoverflow.com/questions/34440753/docker-hub-timeout-in-automated-build/34588866#34588866) and [here](http://stackoverflow.com/questions/36948145/chain-automated-builds-in-the-same-docker-hub-repository) for the limits info.)*  
+
+I want to easily track my Docker efforts, but for now have separate repos for those efforts, and so I made this markdown file to do this.
 
 
 ----
