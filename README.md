@@ -23,3 +23,28 @@ https://hub.docker.com/r/fomightez/chromium/
 https://github.com/fomightez/docker-mac-linuxchromium
 
 ----
+
+
+----
+Dockerfiles for Bioinformatics Docker images
+============================================
+
+Dockerfiles for Docker images that make containers (generally linux-based) that aid in performing and documenting replicable (maybe even repeoducible bioinformatics efforts
+
+
+Associated Docker hub images and github repos
+------------------------
+
+rnaseq_wang:  
+[![](https://images.microbadger.com/badges/image/fomightez/rnaseqwang.svg)](https://microbadger.com/images/fomightez/rnaseqwang "Get your own image badge on microbadger.com")  
+
+Complete container for all command line processing as directed in  
+Using RNA-seq for Analysis of Differential Gene Expression in Fungal Species.
+Wang C, Schröder MS, Hammel S, Butler G.
+Methods Mol Biol. 2016;1361:1-40. doi: 10.1007/978-1-4939-3079-1_1. PMID: [26483013](https://www.ncbi.nlm.nih.gov/pubmed/26483013)
+
+https://hub.docker.com/r/fomightez/rnaseqwang/
+
+https://github.com/fomightez/rnaseq_wang
+
+----
