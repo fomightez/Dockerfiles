@@ -36,7 +36,7 @@ Associated Docker hub images and github repos
 ------------------------
 
 rnaseq_wang:  
-[![](https://images.microbadger.com/badges/image/fomightez/rnaseqwang.svg)](https://microbadger.com/images/fomightez/rnaseqwang "Get your own image badge on microbadger.com")  
+[![](https://images.microbadger.com/badges/version/fomightez/rnaseqwang.svg)](https://microbadger.com/images/fomightez/rnaseqwang "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/fomightez/rnaseqwang.svg)](https://microbadger.com/images/fomightez/rnaseqwang "Get your own image badge on microbadger.com")  
 
 Complete container for all command line processing as directed in  
 Using RNA-seq for Analysis of Differential Gene Expression in Fungal Species.
