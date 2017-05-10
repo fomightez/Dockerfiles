@@ -50,7 +50,7 @@ https://github.com/fomightez/rnaseq_wang
 ----
 
 cufflinks_docker:  
-[![](https://images.microbadger.com/badges/image/fomightez/rnaseqcufflinks.svg)](https://microbadger.com/images/fomightez/rnaseqcufflinks "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/fomightez/rnaseqcufflinks.svg)](https://microbadger.com/images/fomightez/rnaseqcufflinks "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/fomightez/rnaseqcufflinks.svg)](https://microbadger.com/images/fomightez/rnaseqcufflinks "Get your own image badge on microbadger.com")
 
 Docker container for Cufflinks for Transcriptome assembly and differential expression analysis for RNA-Seq
 
@@ -60,7 +60,7 @@ https://github.com/fomightez/cufflinks_docker
 
 
 bowtie1_docker:  
-[![](https://images.microbadger.com/badges/image/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own image badge on microbadger.com")
 
 Docker container for Bowtie1 for splicing-unaware aligning of reads and differential expression analysis for RNA-Seq
 
