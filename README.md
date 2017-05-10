@@ -58,4 +58,14 @@ https://hub.docker.com/r/fomightez/rnaseqcufflinks/
 
 https://github.com/fomightez/cufflinks_docker
 
+
+bowtie1_docker:  
+[![](https://images.microbadger.com/badges/image/fomightez/bowtie1.svg)](https://microbadger.com/images/fomightez/bowtie1 "Get your own image badge on microbadger.com")
+
+Docker container for Bowtie1 for splicing-unaware aligning of reads and differential expression analysis for RNA-Seq
+
+https://hub.docker.com/r/fomightez/bowtie1/
+
+https://github.com/fomightez/bowtie1_docker
+
 ----
