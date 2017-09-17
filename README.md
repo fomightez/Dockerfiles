@@ -69,3 +69,21 @@ https://hub.docker.com/r/fomightez/bowtie1/
 https://github.com/fomightez/bowtie1_docker
 
 ----
+
+Dockerfiles for Structural Analysis Docker images
+================================================
+
+Dockerfiles for Docker images that make containers (generally linux-based) that aid in performing analysis of molecular structures
+
+
+Associated Docker hub images and github repos
+------------------------
+
+CNSsolve1pt21:  
+
+Dockerfile to build images that will compile CNSsolve 1.21 (need old version for ultimately working with software at http://aria.pasteur.fr/supplementary-data/x-links)
+NOTE: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE BELOW. This Dockerfile will handle everything else to result in a freshly compiled version that will run.
+
+https://github.com/fomightez/cnssolve1pt21_docker
+
+----
