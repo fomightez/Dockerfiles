@@ -26,7 +26,7 @@ https://github.com/fomightez/docker-mac-linuxchromium
 
 
 ----
-Dockerfiles for Bioinformatics Docker images
+Dockerfiles for Bioinformatics (Sequence Analysis) Docker images
 ============================================
 
 Dockerfiles for Docker images that make containers (generally linux-based) that aid in performing and documenting replicable (maybe even repeoducible bioinformatics efforts
@@ -70,7 +70,7 @@ https://github.com/fomightez/bowtie1_docker
 
 ----
 
-Dockerfiles for Structural Analysis Docker images
+Dockerfiles for Structural Analysis (Structural Bioinformatics) Docker images
 ================================================
 
 Dockerfiles for Docker images that make containers (generally linux-based) that aid in performing analysis of molecular structures
