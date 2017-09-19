@@ -81,9 +81,16 @@ Associated Docker hub images and github repos
 
 CNSsolve1pt21:  
 
-Dockerfile to build images that will compile CNSsolve 1.21 (need old version for ultimately working with software at http://aria.pasteur.fr/supplementary-data/x-links)
-NOTE: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE BELOW. This Dockerfile will handle everything else to result in a freshly compiled version that will run.
+Dockerfile to build images that will compile CNSsolve 1.21 (need old version for ultimately working with software at http://aria.pasteur.fr/supplementary-data/x-links)  
+NOTE: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE DOCKEFILE. Besides that, this Dockerfile will handle everything else to result in a freshly compiled version that will run.
 
 https://github.com/fomightez/cnssolve1pt21_docker
 
+
+XL-MOD:
+
+Dockerfile to build images that will generate a modified CNS 1.21 for running XL-MS Protein assembly (XL-MOD) with a working directory set up as described at http://aria.pasteur.fr/supplementary-data/x-links/readme/view  .  
+**NOTE**: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE DOCKEFILE. Besides that, this Dockerfile will handle everything else to result in  modified, freshly compiled CNSsolve 1.21 able to run the scripts for XL-MS Protein assembly (XL-MOD).
+
+https://github.com/fomightez/xlmod_docker
 ----
