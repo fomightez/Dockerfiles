@@ -7,25 +7,7 @@ I want to easily track my Docker efforts, but for now have separate repos for th
 
 
 ----
-Dockerfiles for Docker images that connect to Mac Desktop
-=========================================================
 
-Dockerfiles for Docker images that make containers (generally linux-based) that when run, can display to the screen of a properly set up Mac OSX system.
-
-
-Associated Docker hub images and github repos
-------------------------
-
-Chromium:  
-[![](https://images.microbadger.com/badges/version/fomightez/chromium.svg)](https://microbadger.com/images/fomightez/chromium "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/fomightez/chromium.svg)](https://microbadger.com/images/fomightez/chromium "Get your own image badge on microbadger.com")  
-https://hub.docker.com/r/fomightez/chromium/
-
-https://github.com/fomightez/docker-mac-linuxchromium
-
-----
-
-
-----
 Dockerfiles for Bioinformatics (Sequence Analysis) Docker images
 ============================================
 
@@ -96,6 +78,26 @@ Dockerfile to build images that will generate a modified CNS 1.21 for running XL
 **NOTE**: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE DOCKEFILE. Besides that, this Dockerfile will handle everything else to result in  modified, freshly compiled CNSsolve 1.21 able to run the scripts for XL-MS Protein assembly (XL-MOD).
 
 https://github.com/fomightez/xlmod_docker
+
+----
+
+
+----
+
+Dockerfiles for Docker images that connect to Mac Desktop
+=========================================================
+
+Dockerfiles for Docker images that make containers (generally linux-based) that when run, can display to the screen of a properly set up Mac OSX system.
+
+
+Associated Docker hub images and github repos
+------------------------
+
+Chromium:  
+[![](https://images.microbadger.com/badges/version/fomightez/chromium.svg)](https://microbadger.com/images/fomightez/chromium "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/fomightez/chromium.svg)](https://microbadger.com/images/fomightez/chromium "Get your own image badge on microbadger.com")  
+https://hub.docker.com/r/fomightez/chromium/
+
+https://github.com/fomightez/docker-mac-linuxchromium
 
 ----
 
